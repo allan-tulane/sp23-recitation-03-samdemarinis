@@ -1,7 +1,7 @@
 # CMPS 2200  Recitation 03
 
-**Name (Team Member 1):**_________________________  
-**Name (Team Member 2):**_________________________
+**Name (Team Member 1):**___Sam DeMarinis________  
+**Name (Team Member 2):**___Zoe Oboler___________
 
 This recitation includes part of assignment 02. 
 
